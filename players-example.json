@@ -1,0 +1,32 @@
+[
+  {
+    "name": "VidSrc",
+    "movieUrl": "https://vidsrc.cc/v2/embed/movie/{imdb_id}",
+    "tvUrl": "https://vidsrc.cc/v2/embed/tv/{imdb_id}/{season}/{episode}",
+    "useSandbox": true
+  },
+  {
+    "name": "AutoEmbed",
+    "movieUrl": "https://player.autoembed.cc/embed/movie/{imdb_id}?server=15",
+    "tvUrl": "https://player.autoembed.cc/embed/tv/{imdb_id}/{season}/{episode}?server=15",
+    "useSandbox": false
+  },
+  {
+    "name": "2Embed",
+    "movieUrl": "https://www.2embed.cc/embed/{tmdb_id}",
+    "tvUrl": "https://www.2embed.cc/embedtv/{tmdb_id}&s={season}&e={episode}",
+    "useSandbox": true
+  },
+  {
+    "name": "RiveStream",
+    "movieUrl": "https://rivestream.org/embed?type=movie&id={tmdb_id}",
+    "tvUrl": "https://rivestream.org/embed?type=tv&id={tmdbId}&season={season}&episode={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "SuperEmbed",
+    "movieUrl": "https://multiembed.mov/?video_id={tmdb_id}&tmdb=1",
+    "tvUrl": "https://multiembed.mov/?video_id={tmdb_id}&tmdb=1&s={season}&e={episode}",
+    "useSandbox": false
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Cineby (Videasy)",
+    "movieUrl": "https://player.videasy.net/movie/{tmdb_id}",
+    "tvUrl": "https://player.videasy.net/tv/{tmdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "Vidnest",
+    "movieUrl": "https://vidnest.fun/movie/{tmdb_id}",
+    "tvUrl": "https://vidnest.fun/tv/{tmdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "2Embed (IMDB)",
+    "movieUrl": "https://www.2embed.cc/embed/{imdb_id}",
+    "tvUrl": "https://www.2embed.cc/embedtv/{imdb_id}&s={season}&e={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "AeonWatch",
+    "movieUrl": "https://thisiscinema.pages.dev/?type=movie&version=v3&id={tmdb_id}",
+    "tvUrl": "https://thisiscinema.pages.dev/?type=tv&version=v3&id={imdb_id}&season={season}&episode={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "CineSrc",
+    "movieUrl": "https://cinesrc.st/embed/movie/{tmdb_id}",
+    "tvUrl": "https://cinesrc.st/embed/tv/{tmdb_id}?s={season}&e={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "FMovies4U",
+    "movieUrl": "https://fmovies4u.com/embed/movie/{tmdb_id}",
+    "tvUrl": "https://fmovies4u.com/embed/tv/{tmdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "GoDrivePlayer",
+    "movieUrl": "https://godriveplayer.com/player.php?imdb={imdb_id}",
+    "tvUrl": "https://godriveplayer.com/player.php?type=series&tmdb={tmdb_id}&season={season}&episode={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "MapplePlayer",
+    "movieUrl": "https://mapple.uk/watch/movie/{tmdb_id}",
+    "tvUrl": "https://mapple.uk/watch/tv/{tmdb_id}-{season}-{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "MoviesAPI",
+    "movieUrl": "https://moviesapi.club/movie/{tmdb_id}",
+    "tvUrl": "https://moviesapi.club/tv/{tmdb_id}?season={season}&episode={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "PrimeSrc",
+    "movieUrl": "https://primesrc.me/embed/movie?imdb={imdb_id}",
+    "tvUrl": "https://primesrc.me/embed/tv?tmdb={tmdb_id}&season={season}&episode={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "SmashyStream",
+    "movieUrl": "https://player.smashy.stream/movie/{tmdb_id}",
+    "tvUrl": "https://player.smashy.stream/tv/{tmdb_id}?s={season}&e={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "MultiEmbed Direct",
+    "movieUrl": "https://multiembed.mov/directstream.php?video_id={imdb_id}",
+    "tvUrl": "https://multiembed.mov/directstream.php?video_id={imdb_id}&s={season}&e={episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "Vidora",
+    "movieUrl": "https://vidora.su/movie/{tmdb_id}",
+    "tvUrl": "https://vidora.su/tv/{tmdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "VidFast",
+    "movieUrl": "https://vidfast.pro/movie/{tmdb_id}",
+    "tvUrl": "https://vidfast.pro/tv/{tmdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "VidRock",
+    "movieUrl": "https://vidrock.net/movie/{tmdb_id}",
+    "tvUrl": "https://vidrock.net/tv/{tmdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "VidSrc.to",
+    "movieUrl": "https://vidsrc.to/embed/movie/{tmdb_id}",
+    "tvUrl": "https://vidsrc.to/embed/tv/{imdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "Vidzee",
+    "movieUrl": "https://player.vidzee.wtf/v2/embed/movie/{imdb_id}",
+    "tvUrl": "https://player.vidzee.wtf/v2/embed/tv/{imdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "ZXCStream",
+    "movieUrl": "https://zxcstream.xyz/embed/movie/{tmdb_id}",
+    "tvUrl": "https://zxcstream.xyz/embed/tv/{tmdb_id}/{season}/{episode}",
+    "useSandbox": false
+  },
+  {
+    "name": "VidSrc.xyz",
+    "movieUrl": "https://vidsrc.xyz/embed/movie?tmdb={tmdb_id}",
+    "tvUrl": "https://vidsrc.xyz/embed/tv?tmdb={tmdb_id}&season={season}&episode={episode}",
+    "useSandbox": false
+  }
+]
